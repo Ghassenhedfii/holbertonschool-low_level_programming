@@ -1,6 +1,6 @@
 #include "search_algos.h"
 /**
-* linear_search - Prototype 
+* linear_search - Prototype
 * @array: pointer
 * @size: number
 * @value: value
